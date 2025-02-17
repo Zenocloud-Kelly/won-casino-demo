@@ -13,10 +13,10 @@ const RESOURCES = {"canvaskit/skwasm.wasm": "9f0c0c02b82a910d12ce0543ec130e60",
 "canvaskit/chromium/canvaskit.wasm": "b1ac05b29c127d86df4bcfbf50dd902a",
 "canvaskit/chromium/canvaskit.js": "671c6b4f8fcc199dcc551c7bb125f239",
 "canvaskit/canvaskit.js": "66177750aff65a66cb07bb44b8c6422b",
-"index.html": "b995c25f4c5cb6422302898af414f073",
-"/": "b995c25f4c5cb6422302898af414f073",
+"index.html": "435bf4eac8d3b8099b3d11c59bd3200e",
+"/": "435bf4eac8d3b8099b3d11c59bd3200e",
 "version.json": "1c76dc64df774e08604b0f6e44412404",
-"main.dart.js": "685653244e0c52c456ac0f697b51bdf1",
+"main.dart.js": "3c2eca79a825c0feb50d3d848b825c54",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "02711e9669c898e834981620b3715f9f",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
@@ -27,7 +27,7 @@ const RESOURCES = {"canvaskit/skwasm.wasm": "9f0c0c02b82a910d12ce0543ec130e60",
 "assets/assets/main_logo.png": "927e9e8e574fb8383dc5b5d388beb63e",
 "assets/assets/telegram_icon.png": "7bd2fcf03eea63a9e112e0251c98693b",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
-"flutter_bootstrap.js": "92ade03c00d5c2678dacd57422fd529c"};
+"flutter_bootstrap.js": "870d18728e406be3d04be2e56ddafb13"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
