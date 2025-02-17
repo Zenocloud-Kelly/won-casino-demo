@@ -74300,7 +74300,7 @@ r.toString
 r=A.Ej(r,8)
 o=A.mF(25)
 n=t.E
-return A.apE(k,new A.uw(A.uN(A.b([new A.ct(m),s,new A.ct(m),new A.eg(new A.ag(0,1200,0,8),q,m),new A.ct(m),A.jS(A.b([new A.ct(m),A.eh(m,A.aoc("display_logo.png",B.k9,350,350),B.u,m,m,new A.d6(p,m,r,o,m,m,B.az),m,m,new A.aC(10,10,10,10),m),new A.ct(m),A.uN(A.b([new A.u1(m),A.os(m,20,m),new A.v3(m)],n),B.b0,B.aB),new A.ct(m)],n),B.bf,B.aB),new A.ct(m)],n),B.b0,B.aB),m))}}
+return A.apE(k,new A.uw(A.uN(A.b([new A.ct(m),s,new A.ct(m),new A.eg(new A.ag(0,1200,0,8),q,m),new A.ct(m),A.jS(A.b([new A.ct(m),A.eh(m,A.aoc("display_logo.png",B.k9,300,300),B.u,m,m,new A.d6(p,m,r,o,m,m,B.az),m,m,new A.aC(10,10,10,10),m),new A.ct(m),A.uN(A.b([new A.u1(m),A.os(m,20,m),new A.v3(m)],n),B.b0,B.aB),new A.ct(m)],n),B.bf,B.aB),new A.ct(m)],n),B.b0,B.aB),m))}}
 A.kS.prototype={}
 A.vW.prototype={
 Bl(a,b,c){A.mu("Home View - Main")
@@ -74403,7 +74403,7 @@ A.a9G(A.cA(0,0,1),new A.acf(this))},
 QO(){var s=new A.eD(Date.now(),0,!1)
 this.al(new A.acg(this,""+A.apd(s)+"/"+A.apg(s)+"/"+A.api(s),""+A.ape(s)+":"+B.d.l4(B.h.k(A.apf(s)),2,"0")+":"+B.d.l4(B.h.k(A.aph(s)),2,"0")+" GMT+7"))},
 M(a){var s=null
-return A.df(this.d,s,s,s,s,A.cL(s,s,B.j,s,s,s,s,s,s,s,s,50,s,s,B.ag,s,s,!0,s,s,s,s,s,s,s,s),s,s)}}
+return A.df(this.d,s,s,s,s,A.cL(s,s,B.j,s,s,s,s,s,s,s,s,45,s,s,B.ag,s,s,!0,s,s,s,s,s,s,s,s),s,s)}}
 A.acf.prototype={
 $1(a){this.a.QO()},
 $S:61}
